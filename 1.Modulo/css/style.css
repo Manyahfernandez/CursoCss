@@ -1,0 +1,12 @@
+/* h2{
+    border: 1px solid black;
+} */
+
+.titulo{
+    color: orange;
+    font-weight: bold;
+}
+
+#titulo{
+    background-color: blue;
+}
